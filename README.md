@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-¡Hola! soy Agustín Pini, <br>Estudiante de Ing. de Software en la Pontificia Universidad Católica de Chile.<br><br>Actualmente estoy terminando mi carrera universitaria.<br> Estoy en busca de una práctica para Enero-Febrero 2025.
+¡Hola! soy Agustín Pini, <br>Estudiante de Ing. de Software en la Pontificia Universidad Católica de Chile.<br><br>Actualmente estoy realizando una práctica en Buk Chile como Software Developer.
 
 
 ## 🌐 Socials:
