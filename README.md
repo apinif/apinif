@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-¡Hola! soy Agustín Pini, <br>Estudiante de Ing. de Software en la Pontificia Universidad Católica de Chile.<br><br>Actualmente estoy trabajando en Buk Chile como Software Engineer L1.
+¡Hola! soy Agustín Pini, <br>Estudiante de Ing. de Software en la Pontificia Universidad Católica de Chile.<br><br>Actualmente estoy terminando el ultimo semestre de mi carrera.
 
 
 ## 🌐 Socials:
