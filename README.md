@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-¡Hola! soy Agustín Pini, <br>Ingenierio de Software L1.<br><br>Actualmente estoy trabajando en (Buk)[buk.cl]
+¡Hola! soy Agustín Pini, <br>Ingenierio de Software L1.<br><br>Actualmente estoy trabajando en [Buk](buk.cl)
 
 
 ## 🌐 Socials:
